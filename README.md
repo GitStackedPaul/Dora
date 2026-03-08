@@ -1,5 +1,5 @@
 # DORA Compliance Platform
-
+Frontend: file:///C:/Cursor/DORA%20Cursor/DORA-2.0-main%20v.2.0/frontend/analyze.html
 A pragmatic DORA (Digital Operational Resilience Act) compliance platform for financial services SMEs in the Netherlands. Performs gap analysis at DORA Act Level 1 with applicability and gap status (Gap, Partial Gap, No gap), and suggests improvement steps.
 
 ## Legal Reference
@@ -96,3 +96,4 @@ Inspired by [Umbra Ai](https://www.umbraic.com/):
 - Table: Legislation | Item | Applicability | Documentation | Gap
 - Pill badges: purple (Applicable), light purple (Not Applicable), green (No gap), red (Gap), amber (Partial gap)
 - Improvement roadmap with prioritized suggestions
+
