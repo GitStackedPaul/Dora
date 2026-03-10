@@ -1,5 +1,7 @@
 # DORA Compliance Platform
+
 https://github.com/GitStackedPaul/Dora/issues/1#issue-4051119860
+
 Frontend:(http://localhost:5173/)
 
 A pragmatic DORA (Digital Operational Resilience Act) compliance platform for financial services SMEs in the Netherlands. Performs gap analysis at DORA Act Level 1 with applicability and gap status (Gap, Partial Gap, No gap), and suggests improvement steps.
@@ -98,6 +100,7 @@ Inspired by [Umbra Ai](https://www.umbraic.com/):
 - Table: Legislation | Item | Applicability | Documentation | Gap
 - Pill badges: purple (Applicable), light purple (Not Applicable), green (No gap), red (Gap), amber (Partial gap)
 - Improvement roadmap with prioritized suggestions
+
 
 
 
